@@ -13,12 +13,12 @@ TIPOS DE COMPUTAÇÃO EM NUVEM.
 
 Infraestrutura como serviço. (IaaS)
 
-O IaaS fornece acesso a recursos de rede, computadores (virtuais ou em hardware dedicado) e espaço de armazenamento de dados. O IaaS oferece o mais alto nível de flexibilidade e controle de gerenciamento sobre os recursos de TI. 
+O IaaS fornece acesso a recursos de rede, computadores (virtuais ou em hardware dedicado) e espaço de armazenamento de dados. O IaaS oferece o mais alto nível de flexibilidade e controle de gerenciamento sobre os recursos de TI. A alta flexibilidade se manifestará com a facilidade com que novos recursos poderão ser contratados, tornando processos internos mais eficientes. Soluções desse tipo, como é o caso do Microsoft Azure e da Amazon AWS são ideais para empresas que buscam eliminar preocupações e riscos relacionados com infraestrutura física de TI.
 
 Plataforma como serviço. (PaaS)
 
-Com o auxílio do PaaS, você não precisa mais gerenciar a infraestrutura subjacente, o que te torna ainda mais eficiente e podendo focar em outras coisas como na implantação e gerenciamento de aplicativos.
+Com o auxílio do PaaS, você não precisa mais gerenciar a infraestrutura subjacente, o que te torna ainda mais eficiente e podendo focar em outras coisas como na implantação e gerenciamento de aplicativos, como o RedHat que é o líder de soluções de open source.
 
 Software como serviço. (SaaS)
 
-Com uma oferta de SaaS, você não precisa pensar sobre a manutenção do serviço ou o gerenciamento da infraestrutura subjacente. Você só precisa se preocupar sobre como utilizará esse software específico. 
+Com uma oferta de SaaS, você não precisa pensar sobre a manutenção do serviço ou o gerenciamento da infraestrutura subjacente. Você só precisa se preocupar sobre como utilizará esse software específico como Google Drive e Netflix.
